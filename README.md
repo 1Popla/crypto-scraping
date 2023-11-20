@@ -5,7 +5,7 @@ This Python script is a tool for scraping cryptocurrency data from CoinMarketCap
 
 # Requirements
 Python 3.x
-Libraries: pandas, sqlalchemy, psycopg2, playwright.sync_api
+Libraries: pandas, sqlalchemy, psycopg2, playwright
 PostgreSQL server running with a database and a table named crypto
 Access to the internet to scrape data from CoinMarketCap
 
