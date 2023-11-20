@@ -25,7 +25,7 @@ Access to the internet to scrape data from CoinMarketCap
 1. Run the script using Python:
 `python script.py`
 
-2.The script will launch a browser, navigate to CoinMarketCap, scrape data, insert it into the PostgreSQL database, and then save it to a CSV file named scraping_data.csv.
+2. The script will launch a browser, navigate to CoinMarketCap, scrape data, insert it into the PostgreSQL database, and then save it to a CSV file named scraping_data.csv.
 
 
 # Functionality
